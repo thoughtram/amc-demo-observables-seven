@@ -1,0 +1,9 @@
+{
+  "name": "typescript-ug6qaj",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/typescript-ug6qaj",
+  "dependencies": {
+    "rxjs": "6.2.1"
+  },
+  "version": "1.0.0"
+}
